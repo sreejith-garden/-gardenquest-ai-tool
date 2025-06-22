@@ -1,0 +1,11 @@
+Prompt 1: Make a cartoon-style rectangular garden with plants, fences, and a dig site in the center.
+
+Prompt 2: Create a main character with an axe, wearing a green shirt and boots.
+
+Prompt 3: Add harmful plant enemies in the corners. Add guards after level 3.
+
+Prompt 4: Place a small key randomly. After collecting it, unlock the big dig in the center.
+
+Prompt 5: Increase enemy speed and number every 3 levels.
+
+Prompt 6: Add background music with nature sounds and adventure tone.
